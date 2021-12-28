@@ -69,10 +69,10 @@ bin/lab1 input/lab1/segment.txt input/lab1/star_polygon.txt
 ### Вывод программы
 
 Программа выводит 4 GIF-изображения:
-1. `output/lab1/segment.gif` — отрезок;
-2. `output/lab1/polygon.gif` — контур полигона;
-3. `output/lab1/polygon_fill_eo.gif` — полигон, закрашенный по правилу EO;
-4. `output/lab1/polygon_fill_nzw.gif` — полигон, закрашенный по правилу NZW.
+1. [output/lab1/segment.gif](output/lab1/segment.gif) — отрезок;
+2. [output/lab1/polygon.gif](output/lab1/polygon.gif]) — контур полигона;
+3. [output/lab1/polygon_fill_eo.gif](output/lab1/polygon_fill_eo.gif) — полигон, закрашенный по правилу EO;
+4. [output/lab1/polygon_fill_nzw.gif](output/lab1/polygon_fill_nzw.gif) — полигон, закрашенный по правилу NZW.
 
 ## Лабораторная работа 2
 
@@ -124,7 +124,7 @@ bin/lab2 input/lab2/bezier_curve_3.txt input/lab2/segment_clipping.txt
 ### Вывод программы
 
 Программа выводит 2 GIF-изображения:
-1. `output/lab2/bezier_curve_3.gif` — кривая Безье третьего порядка;
-2. `output/lab2/segment_clipping.gif` — анимация отсечения отрезка прямоугольником.
+1. [output/lab2/bezier_curve_3.gif](output/lab2/bezier_curve_3.gif) — кривая Безье третьего порядка;
+2. [output/lab2/segment_clipping.gif](output/lab2/segment_clipping.gif) — анимация отсечения отрезка прямоугольником.
 
 
